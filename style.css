@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    background-color: #1F2937;
+    color: white;
+}
+
+.main-text {
+    font-size: 48px;
+    font-style: bold;
+    color: #F9FAF8;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
